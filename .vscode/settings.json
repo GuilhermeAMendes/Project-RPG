@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.html": "html",
+        "character.h": "c",
+        "battle.h": "c"
+    }
+}
